@@ -7,7 +7,7 @@ Aplicación web de aula para practicar **control de acceso, cierre de sesión y 
 - Una aplicación de citas con dos cuentas y datos inventados.
 - Un **modo aula** con tres fallos preparados para que el grupo los compruebe.
 - Un **modo resuelto** con los comportamientos esperados, para la puesta en común.
-- Una guía del alumnado, una guía docente con resultados orientativos y una hoja para registrar las pruebas.
+- Una guía del alumnado y una hoja para registrar las pruebas.
 
 ## Arranque rápido
 
@@ -63,7 +63,7 @@ La página de inicio incluye los dos enlaces para poder hacer la prueba de acces
 1. El alumnado inicia sesión como ANA y prueba los comportamientos indicados en [la guía del alumnado](GUIA_ALUMNADO.md).
 2. Cada grupo completa una copia de [la hoja de resultados](practica/hoja_resultados.md).
 3. El docente detiene el servidor con `Ctrl+C` y arranca `--mode resuelto` para comparar los resultados.
-4. La puesta en común y los resultados orientativos están en [la guía docente](GUIA_DOCENTE.md). Conviene no compartirla con el alumnado antes de la práctica.
+4. Para la puesta en común, cada grupo comparte una prueba y explica si pasa, falla o no se pudo comprobar.
 
 ## Alcance y seguridad
 
